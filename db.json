@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Kevin",
+      "apellido": "Altamirano",
+      "materias": [
+        {
+          "nombre": "Ciberseguridad para todos"
+        },
+        {
+          "nombre": "Programacion para todos"
+        },
+        {
+          "nombre": "Jujitso practical"
+        }
+      ],
+      "id": "2251"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Francisco",
+      "apellido": "Bolognesi",
+      "promedio": 10,
+      "id": "0355"
+    },
+    {
+      "nombre": "Jose",
+      "apellidos": "Quiñonez",
+      "promedio": 9,
+      "id": "ac84"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Ciberseguridad para todos",
+      "duracion": 7,
+      "dificultad": "Media",
+      "id": "9330"
+    },
+    {
+      "nombre": "Programacion para todos",
+      "duracion": 5,
+      "dificultad": "Media",
+      "id": "b022"
+    },
+    {
+      "nombre": "Jujitso practical",
+      "duracion": 4,
+      "dificultad": "Alta",
+      "id": "59a1"
+    },
+    {
+      "id": "704c",
+      "nombre": "Introduccion a las IA",
+      "duracion": 7,
+      "dificultad": "Avanzada"
+    }
+  ]
+}
